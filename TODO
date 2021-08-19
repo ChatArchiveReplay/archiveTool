@@ -1,0 +1,6 @@
+[x] Concatenate > Implement two archives concatenated together
+[ ] Download > Implement archiving from Twitch API 
+[ ] Squish > Implement: Allow chat to be time compressed between two time stamps
+[ ] Download > Switch to embed emotes into the archive
+[ ] Download > Switch to embed badges into the archive
+[ ] Prune > Implement: Ensure that embedded emotes and badges are actually used and remove all others
