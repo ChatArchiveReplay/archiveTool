@@ -3,4 +3,5 @@
 [ ] Squish > Implement: Allow chat to be time compressed between two time stamps
 [ ] Download > Switch to embed emotes into the archive
 [ ] Download > Switch to embed badges into the archive
-[ ] Prune > Implement: Ensure that embedded emotes and badges are actually used and remove all others
+[ ] Embed > Implement: Ensure that embedded emotes and badges are actually used and remove all others
+[ ] Embed > Implement: Look through all chats and embed emotes and badges used in them
